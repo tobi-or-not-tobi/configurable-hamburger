@@ -1,0 +1,16 @@
+{
+    "name": "configurable-hamburger",
+    "version": "1.0.0",
+    "description": "css hamburger menu driven by css variables",
+    "main": "index.html",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tobi-or-not-tobi/configurable-hamburger.git"
+    },
+    "author": "Tobias Ouwejan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tobi-or-not-tobi/configurable-hamburger/issues"
+    },
+    "homepage": "https://github.com/tobi-or-not-tobi/configurable-hamburger#readme"
+}
